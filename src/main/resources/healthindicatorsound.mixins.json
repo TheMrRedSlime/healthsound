@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "healthindicatorsound.mixin",
+	"compatibilityLevel": "JAVA_8",
+	"mixins": [
+		"ClientPlayerEntityMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

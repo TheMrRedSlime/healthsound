@@ -1,0 +1,9 @@
+{
+  "text.autoconfig.healthwarning.title": "Health Warning Config",
+  "text.autoconfig.healthwarning.option.threshold": "Health Threshold (Hearts)",
+  "text.autoconfig.healthwarning.option.threshold.@Tooltip": "Health below this value will trigger the PLING sound.",
+  "text.autoconfig.healthwarning.option.enabled": "Enable Warning",
+  "text.autoconfig.healthwarning.option.enabled.@Tooltip": "Turn the low health sound warning on or off.",
+  "text.autoconfig.healthwarning.option.soundmultiplier": "Sound Volume Multiplier",
+  "text.autoconfig.healthwarning.option.soundmultiplier.@Tooltip": "How loud the warning sound should be."
+}
