@@ -8,8 +8,8 @@
 		"TheMrRedSlime"
 	],
 	"contact": {
-		"homepage": "",
-		"sources": ""
+		"homepage": "https://modrinth.com/mod/healthwarning",
+		"sources": "https://github.com/TheMrRedSlime/healthsound"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/healthindicatorsound/icon.png",
