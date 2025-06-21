@@ -14,7 +14,7 @@ public class HealthWarningConfig implements ConfigData {
     @ConfigEntry.Gui.Tooltip
     public boolean enabled = true;
     @ConfigEntry.Gui.Tooltip
-    public float soundmultiplier = 3.4F;
+    public float soundmultiplier = 34.4F;
 
     public static void init() {
         AutoConfig.register(HealthWarningConfig.class, Toml4jConfigSerializer::new);
